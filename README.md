@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aden<br><br>First year Computer Science student at MRU<br>Currently learning Python, and SQL
+Hi, I'm Aden<br><br>First year Computer Science student at MRU <img src="MRUcougarslogo.png" height="14"><br>Currently learning Python, and SQL
 
 
 ## 🌐 Socials:
